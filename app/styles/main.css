@@ -87,4 +87,32 @@ body {
     border-bottom: 0;
   }
 }
-
+.jsb{
+   display: table;
+   border-spacing: 10px;
+ }
+ .first
+ {
+   display: table-row;
+ }
+ .tupian{
+   display: table-cell;
+   width: 20%;
+   padding: 15px;
+   vertical-align: top;
+   border-style: double;
+   border-color: #0b97c4;
+   border-radius: 15px;
+   padding: 5px;
+   margin: 5px;
+ }
+.jieshao{
+  font-family: "Adobe 黑体 Std R";
+  display: table-cell;
+  width: 25%;
+  padding: 10px;
+  vertical-align: top;
+}
+#biaoti{
+  text-align: center;
+}
